@@ -26,6 +26,8 @@ The application allows users to simulate different profiles and understand how f
 
 You can access it here: [Insurance Risk Prediction Simulator](https://github.com/Vanessa22400/insurance_risk_prediction_simulator/tree/main)
 
+![App Preview](Images/app_preview.png)
+
 
 ---
 
