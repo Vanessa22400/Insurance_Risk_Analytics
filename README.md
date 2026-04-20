@@ -28,7 +28,7 @@ You can access it here: [Insurance Risk Prediction Simulator](https://github.com
 
 ![App Preview](<p align="center">
   <img src="Images/app_preview.png" width="45%" />
-  <img src="Images/plot_preview2.png" width="45%" />
+  <img src="Images/app_preview2.png" width="45%" />
 </p>)
 
 
