@@ -1,6 +1,9 @@
 # Insurance Claim Analytics: Cost Drivers, Risk Segmentation and Predictive Modeling  
 *Analyzing healthcare cost drivers and predicting high-cost claim risk using data analytics, causal inference and machine learning.*
 
+An interactive application based on this project was also developed using Streamlit:  
+[Insurance Risk Prediction Simulator](https://github.com/Vanessa22400/insurance_risk_prediction_simulator/tree/main)
+
 **Dataset:** Health Insurance Dataset (1,338 individuals)  
 **Techniques:** SQL analysis, exploratory data analysis (EDA), risk segmentation, K-Means clustering, causal inference (Propensity Score Matching), predictive modeling (Linear Regression & Random Forest), classification modeling, threshold tuning.  
 **Key Insight:** Smoking is the strongest cost driver, increasing healthcare costs by approximately **$23,500 per individual per year** (~4x higher costs) and playing a central role in high-cost claim risk.
