@@ -29,9 +29,9 @@ It also highlights how these factors relate to long-term outcomes, supporting a 
 You can access it here: [Insurance Risk Prediction Simulator](https://github.com/Vanessa22400/insurance_risk_prediction_simulator/tree/main)
 
 <p align="center">
-  <img src="Images/app_preview.png" width="30%" />
-  <img src="Images/app_preview2.png" width="30%" />
-  <img src="Images/app_preview3.png" width="30%" />
+  <img src="Images/app_preview.png" width="40%" />
+
+  <img src="Images/app_preview3.png" width="40%" />
 </p>
 
 
