@@ -24,11 +24,14 @@ An interactive version of this project was developed to make the analysis more a
 
 The application allows users to simulate different profiles and understand how factors such as smoking, BMI and age influence healthcare costs and risk levels.
 
+It also highlights how these factors relate to long-term outcomes, supporting a more preventive and awareness-driven perspective.
+
 You can access it here: [Insurance Risk Prediction Simulator](https://github.com/Vanessa22400/insurance_risk_prediction_simulator/tree/main)
 
 <p align="center">
-  <img src="Images/app_preview.png" width="45%" />
-  <img src="Images/app_preview2.png" width="45%" />
+  <img src="Images/app_preview.png" width="30%" />
+  <img src="Images/app_preview2.png" width="30%" />
+  <img src="Images/app_preview3.png" width="30%" />
 </p>
 
 
